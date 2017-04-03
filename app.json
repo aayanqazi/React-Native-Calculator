@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "sdkVersion": "15.0.0",
+    "android": {
+      "package": "Calculator"
+    }
+  },
+  "name": "hello",
+  "displayName": "Calculator By Arsalan Sabir"
+}
