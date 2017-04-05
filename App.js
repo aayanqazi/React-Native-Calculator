@@ -5,6 +5,7 @@ import InputButton from "./Components/InputButton/InputButton"
 import { COLOR, ThemeProvider ,Toolbar,Dialog, DialogDefaultActions} from 'react-native-material-ui';
 import Icon from 'react-native-vector-icons/Entypo';
 import Icons from 'react-native-vector-icons/FontAwesome'
+import {Constants} from "expo";
 
 const inputButtons = [
   [1, 2, 3, '/'],
